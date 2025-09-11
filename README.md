@@ -38,17 +38,19 @@
 ---
 
 ## 🚀 Projects
-- **[개발자 스탬프 프로젝트](https://github.com/wndudzz6/stamp-project)**  
+- **[개발자 스탬프 프로젝트](https://github.com/2025-Kraftonweek2-401-7)**  
   Chrome Extension + Spring Boot / PostgreSQL / Google OAuth2  
-  → 개발자 사이트 방문 시 스탬프 수집 & 희귀도 업그레이드 기능 제공  
+  → 개발자 사이트 방문 시 스탬프 수집 & 희귀도 업그레이드 기능 제공
+  크래프톤 웹개발 집중캠프 3기 
 
 - **[코드 리뷰 자동화](https://github.com/wndudzz6/code-reviewer)**  
   GPT-3.5 API 연동 / Redis 캐싱 / Excel Export  
   → 제출된 코드 자동 리뷰 및 결과 Export 시스템  
 
-- **[식단 추천 서비스](https://github.com/2024BootCamp/DMC)**  
+- **[식단 추천 서비스](https://github.com/wndudzz6/DMC-SpringBoot-ref)**  
   Spring Boot + MySQL + Flutter  
-  → 환자 맞춤형 식단 추천 및 기록 관리 서비스  
+  → 환자 맞춤형 식단 추천 및 기록 관리 서비스
+  정보통신기획평가원 주관 부트캠프 K-software empowerment Bootcamp 3기 
 
 ---
 
