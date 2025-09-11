@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Juyeong Oh (오주영)
-> "보이지 않는 신뢰를 설계하는 자바 백엔드 개발자"
+> "안정적이고 유지보수 가능한 서버를 지향하는 백엔드 개발자"
 
 📧 Email: osmzxcvb@naver.com  
 🌐 GitHub: [wndudzz6](https://github.com/wndudzz6)
@@ -30,7 +30,10 @@
 
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wndudzz6&layout=compact&theme=tokyonight)  
-![Stats](https://github-readme-stats.vercel.app/api?username=wndudzz6&show_icons=true&theme=tokyonight)
+
+## 🧩 Algorithm
+![Baekjoon](http://mazassumnida.wtf/api/v2/generate_badge?boj=osmzxcvb)
+
 
 ---
 
@@ -59,7 +62,6 @@
 ## 🌱 About Me
 - 🎓 Computer Engineering @ Kyonggi Univ. (2026.02 졸업 예정)  
 - 🏋️ 꾸준함과 적응력을 무기로 성장하는 백엔드 개발자  
-- ✍️ 기술 블로그: [Brunch](https://brunch.co.kr/@138562e99ce74fa) (리팩토링 & 프로젝트 기록)
 
 ---
 
