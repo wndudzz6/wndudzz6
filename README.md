@@ -38,29 +38,38 @@
 ---
 
 ## 🚀 Projects
+
 - **[개발자 스탬프 프로젝트](https://github.com/2025-Kraftonweek2-401-7)**  
   Chrome Extension + Spring Boot / PostgreSQL / Google OAuth2  
   → 개발자 사이트 방문 시 스탬프 수집 & 희귀도 업그레이드 기능 제공  
 
 - **[코드 리뷰 자동화](https://github.com/wndudzz6/code-reviewer)**  
   GPT-3.5 API 연동 / Redis 캐싱 / Excel Export  
-  → 제출된 코드 자동 리뷰 및 결과 Export 시스템  
+  → 제출된 코드 자동 리뷰 및 결과 Export 시스템
+
+  
 
 - **[식단 추천 서비스](https://github.com/wndudzz6/DMC-SpringBoot-ref)**  
   Spring Boot + MySQL + Flutter  
-  → 환자 맞춤형 식단 추천 및 기록 관리 서비스  
+  → 환자 맞춤형 식단 추천 및 기록 관리 서비스
+
+- **[RISK ZERO AI](https://github.com/wndudzz6/docShield)**
+  Spring Boot + FastAPI + Gemini API 
+  → 문서를 로컬 LLM 서버에 전달해 민감정보를 자동 마스킹하고, Gemini를 통해 안전하게 질의응답할 수 있는 보안형 AI 프레임워크
+  
 ---
 
 ## 🏆 Achievements
-- 2025.06 **심화 캡스톤 경진대회 금상**
-- 2024.07 **기초 캡스톤 경진대회 금상**
+- 2025.10 **2025 AI-Powered SW중심대학 공동 AI해커톤 장려상**
+- 2025.06 **경기대학교 심화 캡스톤 경진대회 금상**
+- 2024.07 **경기대학교 기초 캡스톤 경진대회 금상**
 - SQLD / TOPCIT Lv.3 / 정보처리기사
 
   
 ## 📌 Activities
 - 정보통신기획평가원 K-Software Empowerment Bootcamp (2023.12.26 - 2024.11.15)
 - 크래프톤 웹개발 집중캠프 (2025.8.11 - 2025.8.22)
-
+- 2025 AI-Powered SW중심대학 공동 AI해커톤 (2025.10.24 - 2025.10.26) 
 ---
 
 ## 🌱 About Me
