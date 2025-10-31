@@ -81,9 +81,11 @@ Spring Boot 기반 백엔드를 주력으로, Python(FastAPI)을 활용한 AI �
 ---
 
 ## 🌱 About Me
-- 🎓 Computer Engineering @ Kyonggi Univ. (2026.02 졸업 예정)  
-- 🏋️ 꾸준함과 적응력을 무기로 성장하는 백엔드 개발자  
-
+- 🎓 Computer Engineering @ Kyonggi Univ. (Expected Feb 2026)
+- 🌍 데이터와 시스템을 연결해 사람과 조직의 효율을 높이는 개발자를 지향합니다.
+- 💡 단순한 기능 구현보다 문제의 구조를 이해하고 개선하는 일에 흥미를 느낍니다.
+- 🧠 Spring Boot와 Python(FastAPI)을 활용해 AI 기반 자동화 서비스를 실험 중입니다.
+- 🏋️ 꾸준함과 적응력을 바탕으로 새로운 기술을 실행 가능한 형태로 구현합니다.
 ---
 
 ![Profile views](https://komarev.com/ghpvc/?username=wndudzz6&color=blue)
