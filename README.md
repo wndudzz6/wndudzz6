@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Juyeong Oh (오주영)
 > "불편함을 기술로 해결하는 DX 지향 백엔드 개발자"
->AI와 자동화를 활용해 반복적인 업무를 효율화하고,개발자와 조직의 생산성을 높이는 시스템을 설계합니다.  
-현재는 Spring Boot·Python 기반 AI 자동화 프로젝트를 고도화 중이며, 사내 데이터 활용 및 업무 효율화 방향으로 확장할 예정입니다.
+>AI와 자동화를 활용해 반복적인 업무를 효율화하고, 개발자와 조직의 생산성을 높이는 시스템을 설계합니다.
+Spring Boot 기반 백엔드를 주력으로, Python(FastAPI)을 활용한 AI 연동 프로젝트를 고도화 계획 중입니다.
 
 📧 Email: osmzxcvb@naver.com  
 🌐 GitHub: [wndudzz6](https://github.com/wndudzz6)
@@ -12,7 +12,6 @@
 **Back-End**
 ![Java](https://img.shields.io/badge/Java-17-orange)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-3-brightgreen)
-![Python](https://img.shields.io/badge/Python-FastAPI-3776AB)
 ![JPA](https://img.shields.io/badge/JPA-Hibernate-blue)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-316192)
 ![MySQL](https://img.shields.io/badge/MySQL-DB-blue)
@@ -29,6 +28,11 @@
 ![Postman](https://img.shields.io/badge/Postman-API%20Test-FF6C37)
 ![Swagger](https://img.shields.io/badge/Swagger-Docs-85EA2D)
 ![Notion](https://img.shields.io/badge/Notion-Collab-black)
+
+**AI & Automation**
+![Python](https://img.shields.io/badge/Python-FastAPI-3776AB)
+![Gemini API](https://img.shields.io/badge/Gemini-API-blueviolet)
+![OpenAI API](https://img.shields.io/badge/OpenAI-API-8A2BE2)
 
 ---
 
