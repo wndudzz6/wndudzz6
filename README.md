@@ -61,7 +61,7 @@ Spring Boot 기반 백엔드를 주력으로, Python(FastAPI)을 활용한 AI �
   Spring Boot + MySQL + Flutter  
   → 환자 맞춤형 식단 추천 및 기록 관리 서비스
 
-- **[RISK ZERO AI](https://github.com/wndudzz6/docShield)**
+- **[MaskDoc Query](https://github.com/wndudzz6/docShield)**
   Spring Boot + FastAPI + Gemini API 
   → 문서를 로컬 LLM 서버에 전달해 민감정보를 자동 마스킹하고, Gemini를 통해 안전하게 질의응답할 수 있는 보안형 AI 프레임워크
   
