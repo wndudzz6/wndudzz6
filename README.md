@@ -1,91 +1,124 @@
-# 👋 Hi, I'm Juyeong Oh (오주영)
-> "불편함을 기술로 해결하는 DX 지향 백엔드 개발자"
->AI와 자동화를 활용해 반복적인 업무를 효율화하고, 개발자와 조직의 생산성을 높이는 시스템을 설계합니다.
-Spring Boot 기반 백엔드를 주력으로, Python(FastAPI)을 활용한 AI 연동 프로젝트를 고도화 계획 중입니다.
+# 오주영 | Technical PM · Backend Developer
 
-📧 Email: osmzxcvb@naver.com  
-🌐 GitHub: [wndudzz6](https://github.com/wndudzz6)
+게임 서비스의 런칭·운영·종료 과정에서 요구사항을 시스템별 과제로 구조화하고,
+Spring Boot 기반으로 업무 시스템과 데이터 연동 프로젝트를 개발했습니다.
 
----
-
-## ⚡ Tech Stack
-**Back-End**
-![Java](https://img.shields.io/badge/Java-17-orange)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-3-brightgreen)
-![JPA](https://img.shields.io/badge/JPA-Hibernate-blue)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-316192)
-![MySQL](https://img.shields.io/badge/MySQL-DB-blue)
-![Redis](https://img.shields.io/badge/Redis-Cache-red)
-
-
-**Infra & DevOps**  
-![Docker](https://img.shields.io/badge/Docker-Container-2496ED)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI/CD-2088FF)
-![Render](https://img.shields.io/badge/Render-Hosting-46E3B7)
-
-**Tools**  
-![IntelliJ](https://img.shields.io/badge/IntelliJ-IDE-000000)
-![Postman](https://img.shields.io/badge/Postman-API%20Test-FF6C37)
-![Swagger](https://img.shields.io/badge/Swagger-Docs-85EA2D)
-![Notion](https://img.shields.io/badge/Notion-Collab-black)
-
-**AI & Automation**
-![Python](https://img.shields.io/badge/Python-FastAPI-3776AB)
-![Gemini API](https://img.shields.io/badge/Gemini-API-blueviolet)
-![OpenAI API](https://img.shields.io/badge/OpenAI-API-8A2BE2)
+- Email: osmzxcvb@naver.com
+- GitHub: [github.com/wndudzz6](https://github.com/wndudzz6)
 
 ---
 
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wndudzz6&layout=compact&theme=tokyonight)  
+## Experience
 
-## 🧩 Algorithm
-![Baekjoon](http://mazassumnida.wtf/api/v2/generate_badge?boj=osmzxcvb)
+### 웹젠 | 기술PM 인턴
+`2026.01 – 2026.07`
 
+- 게임 서비스 런칭·라이브 운영·종료 프로젝트 관리
+- 사업 요구사항을 플랫폼·DB·인프라·QA 단위의 기술 과제로 구조화
+- 일정, 이슈, 선후행 관계 및 조직별 R&R 관리
+- 서비스 종료 과정의 인프라 반납, 데이터 백업, 권한 회수 항목을 통합 관리
+- Redmine 요청 템플릿과 SharePoint 문서 체계 정비
 
 ---
 
-## 🚀 Projects
+## Projects
 
-- **[개발자 스탬프 프로젝트](https://github.com/2025-Kraftonweek2-401-7)**  
-  Chrome Extension + Spring Boot / PostgreSQL / Google OAuth2  
-  → 개발자 사이트 방문 시 스탬프 수집 & 희귀도 업그레이드 기능 제공  
+### FactoryFlow ERP–MES PoC
+[GitHub Repository](https://github.com/wndudzz6/factoryflow-erp-mes-poc)
 
-- **[코드 리뷰 자동화](https://github.com/wndudzz6/code-reviewer)**  
-  GPT-3.5 API 연동 / Redis 캐싱 / Excel Export  
-  → 제출된 코드 자동 리뷰 및 결과 Export 시스템
+`Java 17 · Spring Boot · JPA · MSSQL · REST API`
 
-  
+독립된 ERP와 MES 사이의 작업지시 연동을 구현한 개인 프로젝트입니다.
 
-- **[식단 추천 서비스](https://github.com/wndudzz6/DMC-SpringBoot-ref)**  
-  Spring Boot + MySQL + Flutter  
-  → 환자 맞춤형 식단 추천 및 기록 관리 서비스
+- ERP 작업지시 생성 및 MES 동기화 API 구현
+- 원천 시스템과 외부 식별자를 이용한 중복 생성 방지
+- 버전 비교를 통한 동일·과거 요청 무시 및 최신 변경사항 반영
+- ERP와 MES의 데이터베이스 및 애플리케이션 분리
+- 동기화 실패 사유와 전송 상태 관리
 
-- **[MaskDoc Query](https://github.com/wndudzz6/docShield)**
-  Spring Boot + FastAPI + Gemini API 
-  → 문서를 로컬 LLM 서버에 전달해 민감정보를 자동 마스킹하고, Gemini를 통해 안전하게 질의응답할 수 있는 보안형 AI 프레임워크
-  
+### MaskDoc AI
+[GitHub Repository](https://github.com/wndudzz6/docShield)
+
+`Spring Boot · FastAPI · Local LLM · Gemini API`
+
+기업 문서를 외부 LLM에 전달할 때 발생할 수 있는 정보 노출을 줄이기 위한
+보안형 문서 질의응답 시스템입니다.
+
+- FastAPI 기반 로컬 LLM 서버에서 민감정보 탐지 및 마스킹
+- Spring Boot 서버에서 문서 처리와 외부 LLM 질의응답 담당
+- 로컬 마스킹 서버와 외부 LLM 서비스 간 연동 구조 구현
+- 2025 AI-Powered SW중심대학 공동 AI해커톤 장려상 수상
+
+### Bingo
+`Spring Boot · FastAPI · PostgreSQL · LLM API`
+
+기상·사고 데이터를 활용한 도로 빙판 위험도 모니터링 서비스입니다.
+
+- 기상청 데이터 수집 스케줄러와 재시도 처리 구현
+- 기온·습도·사고 데이터를 이용한 구간별 위험도 산출
+- Spring Boot와 FastAPI 간 데이터 및 모델 연동
+- 자연어 질의를 통한 위험 구간 조회 기능 구현
+
+### 풍력발전 설치 적합도 분석
+`Java · Spring Boot · Python · Machine Learning`
+
+지역별 환경 데이터를 이용해 풍력발전소 설치 적합도를 분석하는 서비스입니다.
+
+- 서로 다른 형식의 공공데이터 정제 및 표준화
+- 머신러닝 분석 결과를 데이터베이스에 저장하는 구조 설계
+- 지역별 분석 결과 조회 API와 대시보드 구현
+
 ---
 
-## 🏆 Achievements
-- 2025.10 **2025 AI-Powered SW중심대학 공동 AI해커톤 장려상**
-- 2025.06 **경기대학교 심화 캡스톤 경진대회 금상**
-- 2024.07 **경기대학교 기초 캡스톤 경진대회 금상**
-- SQLD / TOPCIT Lv.3 / 정보처리기사
+## Skills
 
-  
-## 📌 Activities
-- 정보통신기획평가원 K-Software Empowerment Bootcamp (2023.12.26 - 2024.11.15)
-- 크래프톤 웹개발 집중캠프 (2025.8.11 - 2025.8.22)
-- 2025 AI-Powered SW중심대학 공동 AI해커톤 (2025.10.24 - 2025.10.26) 
+### Backend
+- Java 17, Spring Boot, Spring Data JPA
+- REST API, Validation, Swagger
+- Python, FastAPI
+
+### Database
+- MSSQL, PostgreSQL, MySQL, H2
+- SQL, 데이터 모델링
+
+### Infrastructure & Tools
+- Git, GitHub Actions
+- Render, Ubuntu
+- IntelliJ IDEA, Postman, Redmine, SharePoint
+
+### AI Integration
+- Gemini API, OpenAI API
+- Local LLM 연동
+- Spring Boot–FastAPI 서비스 연동
+
 ---
 
-## 🌱 About Me
-- 🎓 Computer Engineering @ Kyonggi Univ. (Expected Feb 2026)
-- 🌍 데이터와 시스템을 연결해 사람과 조직의 효율을 높이는 개발자를 지향합니다.
-- 💡 단순한 기능 구현보다 문제의 구조를 이해하고 개선하는 일에 흥미를 느낍니다.
-- 🧠 Spring Boot와 Python(FastAPI)을 활용해 AI 기반 자동화 서비스를 실험 중입니다.
-- 🏋️ 꾸준함과 적응력을 바탕으로 새로운 기술을 실행 가능한 형태로 구현합니다.
+## Awards
+
+- `2025.10` 2025 AI-Powered SW중심대학 공동 AI해커톤 장려상
+- `2025.06` 경기대학교 심화 캡스톤디자인 경진대회 금상
+- `2024.07` 경기대학교 기초 캡스톤디자인 경진대회 금상
+
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=wndudzz6&color=blue)
+## Education
+
+### 경기대학교
+컴퓨터공학과 학사  
+`2023.03 – 2026.02`
+
+### K-Software Empowerment Bootcamp
+정보통신기획평가원 · 640시간  
+`2023.12 – 2024.11`
+
+### 크래프톤 웹 개발 집중 캠프
+`2025.08`
+
+---
+
+## Certifications
+
+- 정보처리기사
+- SQLD
+- TOPCIT Level 3
+- TOEIC Speaking IM3
